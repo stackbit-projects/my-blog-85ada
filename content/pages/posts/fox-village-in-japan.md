@@ -5,8 +5,9 @@ subtitle: >-
   sanctuaries.
 excerpt: >-
   Systematic trading is a fascinating and deep subject. Languages that dominate
-  this space include Python, C#, and C/C++. Unfortunately there's not yet been
-  many libraries developed yet for the Elixir and Rust programming languages.
+  this space include Python, C#, and C/C++. Unfortunately, Elixir fans will feel
+  left out in the cold, as there's not many trading libraries available yet,
+  and...
 date: '2020-01-11'
 thumb_img_path: /images/behnam-norouzi-mp11_hrQXf8-unsplash-crop.jpeg
 thumb_img_alt: A red fox sitting on a meadow
