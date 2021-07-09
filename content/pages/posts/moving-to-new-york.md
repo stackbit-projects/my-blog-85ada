@@ -2,11 +2,9 @@
 title: Redux is Verbose. Simple Shared State is Concise.
 subtitle: A cautionary tale about life in New York
 excerpt: >-
-  The City of New York, usually called either New York City (NYC) or simply New
-  York (NY), is the most populous city in the United States. With an estimated
-  2017 population of 8,622,698 distributed over a land area of about 302.6
-  square miles (784 km2), New York is also the most densely populated major city
-  in the United States.
+  I've worked with Redux a lot, and generally I'm happy with it. But in large
+  applications, the number of reducers and action creators you'll end up writing
+  will start to get a bit tiring. I've
 date: '2018-01-23'
 thumb_img_path: /images/kelly-sikkema-v9FQR4tbIq8-unsplash.jpg
 thumb_img_alt: Brooklyn Bridge at daytime
