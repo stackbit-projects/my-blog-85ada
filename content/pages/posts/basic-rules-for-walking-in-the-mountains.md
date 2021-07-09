@@ -1,9 +1,9 @@
 ---
 title: Logical clocks in TypeScript
 excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside
+  In the space of distributed systems, the concept of a logical clock is an
+  alternative to synchronized clocks. The idea is that we could merge divergent
+  states independent of their order of occurrence, if we
 date: '2019-04-09'
 thumb_img_path: /images/tomas-yates-Wz1K1owdpGg-unsplash (1).jpg
 thumb_img_alt: A man standing on a rock cliff overlooking a river
