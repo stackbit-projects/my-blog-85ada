@@ -1,5 +1,5 @@
 ---
-title: A Stock/Crypto/Forex Client using Elixir
+title: Systematic Trading with Elixir
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
