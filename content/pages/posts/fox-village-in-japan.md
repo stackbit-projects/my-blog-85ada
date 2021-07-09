@@ -1,5 +1,5 @@
 ---
-title: A broker client in Elixir
+title: Universal Brokerage Client for Elixir
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
