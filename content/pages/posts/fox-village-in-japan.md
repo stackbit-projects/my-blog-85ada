@@ -11,7 +11,7 @@ excerpt: >-
 date: '2020-01-11'
 thumb_img_path: /images/behnam-norouzi-mp11_hrQXf8-unsplash-crop.jpeg
 thumb_img_alt: A red fox sitting on a meadow
-content_img_path: images/10.jpg
+content_img_path: /images/behnam-norouzi-mp11_hrQXf8-unsplash.jpg
 seo:
   title: Fox Village In Japan
   description: >-
