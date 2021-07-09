@@ -1,5 +1,5 @@
 ---
-title: Universal Brokerage Client for Elixir
+title: Building a Brokerage Client Library in Elixir
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
