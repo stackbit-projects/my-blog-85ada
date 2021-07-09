@@ -1,9 +1,10 @@
 ---
 title: Logical clocks in TypeScript
 excerpt: >-
-  In the space of distributed systems, the concept of a logical clock is an
-  alternative to maintaining a synchronized clock. The idea is that we can merge
-  divergent states independent
+  In the space of distributed systems, the concept of a logical clock has been
+  researched to provide an alternative to the need for synchronized clocks. The
+  idea is that we can use a logical process to determine causality and use the
+  resulting data structure to merge divergent states
 date: '2019-04-09'
 thumb_img_path: /images/tomas-yates-Wz1K1owdpGg-unsplash (1).jpg
 thumb_img_alt: A man standing on a rock cliff overlooking a river
