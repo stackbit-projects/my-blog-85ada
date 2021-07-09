@@ -1,11 +1,10 @@
 ---
 title: Logical clocks in TypeScript
 excerpt: >-
-  In the space of distributed systems, the concept of a logical clock has been
-  researched to as a method to implement eventually consistent distributed data
-  stores. The idea is that, through the use of a specific data structure and
-  update protocol, we can determine a causal history of application state, and
-  deterministically...
+  The concept of a logical clock has been developed as a technique for managing
+  eventually consistent distributed data stores. The idea is that, through the
+  use of a specific data structure and update protocol, we can determine the
+  causal history of a given state, and deterministically...
 date: '2019-04-09'
 thumb_img_path: /images/tomas-yates-Wz1K1owdpGg-unsplash (1).jpg
 thumb_img_alt: A man standing on a rock cliff overlooking a river
