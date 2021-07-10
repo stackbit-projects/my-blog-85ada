@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Time-Series Analysis in Rust
 subtitle: lorem-ipsum
 date: '2021-07-09'
 thumb_img_alt: lorem-ipsum
