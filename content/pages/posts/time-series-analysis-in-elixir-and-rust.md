@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_img_path: /images/sajad-nori-XihAgOYNHn4-unsplash-crop.jpg
 ---
 ## Lorem ipsum
 
