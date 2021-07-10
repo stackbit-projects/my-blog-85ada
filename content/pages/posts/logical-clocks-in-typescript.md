@@ -1,5 +1,5 @@
 ---
-title: Logical clocks in TypeScript
+title: Logical Clocks in TypeScript
 excerpt: >-
   The concept of a logical clock has been developed as a technique for managing
   eventually consistent distributed data stores. The idea is that, through the
