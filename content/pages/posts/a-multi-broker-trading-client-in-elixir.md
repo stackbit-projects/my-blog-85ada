@@ -1,5 +1,5 @@
 ---
-title: A General Purpose Brokerage Client for Elixir
+title: A Multi-Broker Client for Elixir
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
