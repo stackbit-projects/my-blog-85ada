@@ -5,7 +5,8 @@ date: '2021-07-09'
 thumb_img_alt: lorem-ipsum
 excerpt: >-
   If we want to analyze securities data for either systematic trading or
-  investing, we first need to construct a queue data structure.
+  investing, we first need to a queue data structure which can efficiently
+  enqueue and dequeue entries of our time series.
 hide_header: false
 seo:
   title: ''
