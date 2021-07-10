@@ -3,7 +3,9 @@ title: lorem-ipsum
 subtitle: lorem-ipsum
 date: '2021-07-09'
 thumb_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  If we want to analyze securities data for either systematic trading or
+  investing, we first need an efficient process for
 hide_header: false
 seo:
   title: ''
