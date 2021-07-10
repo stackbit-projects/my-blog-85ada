@@ -5,8 +5,8 @@ date: '2021-07-09'
 thumb_img_alt: lorem-ipsum
 excerpt: >-
   If we want to use Rust to analyze securities data for either systematic
-  trading or investing, we first need to a queueing data structure to
-  efficiently enqueue and dequeue entries of our time series.
+  trading or investing, we first need to a queueing system to efficiently
+  enqueue and then dequeue entries of our time series
 hide_header: false
 seo:
   title: ''
