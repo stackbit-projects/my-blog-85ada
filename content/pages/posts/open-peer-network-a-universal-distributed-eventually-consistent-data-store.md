@@ -5,7 +5,9 @@ subtitle: >-
   health will recharge and how I benefit from it.
 excerpt: >-
   Countless startups have been founded with the goal of making apps easier to
-  build by trying to eliminate the need for bespoke backend services.
+  build by replacing bespoke backend services with a universal,
+  one-size-fits-all backend. The idea being that the client dictates what to
+  store and...
 date: '2019-03-24'
 thumb_img_path: /images/pietro-de-grandi-T7K4aEPoGGk-unsplash.jpg
 thumb_img_alt: A man fishing in a lake
