@@ -1,5 +1,5 @@
 ---
-title: 'Open Peer Network: A Universal, Dis Eventually Consistent, Distributed Data Store'
+title: 'Open Peer Network: A Universal, Distributed, Eventually Consistent, Data Store'
 subtitle: >-
   The way I spend time out in nature can affect how much my physical and mental
   health will recharge and how I benefit from it.
