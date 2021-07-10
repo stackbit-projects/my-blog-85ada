@@ -5,7 +5,7 @@ date: '2021-07-09'
 thumb_img_alt: lorem-ipsum
 excerpt: >-
   If we want to analyze securities data for either systematic trading or
-  investing, we first need to construct a rolling FIFO
+  investing, we first need to construct a queue data structure.
 hide_header: false
 seo:
   title: ''
