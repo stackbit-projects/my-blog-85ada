@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'Machine Learning From Scratch, in Rust'
 subtitle: lorem-ipsum
 date: '2021-07-16'
 thumb_img_alt: lorem-ipsum
