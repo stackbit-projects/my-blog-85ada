@@ -15,7 +15,7 @@ layout: post
 ---
 ## Lorem ipsum
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We can download a cat images dataset [from kaggle here](https://www.kaggle.com/crawford/cat-dataset).
 
-- Lorem ipsum
-- dolor sit amet
+*   Lorem ipsum
+*   dolor sit amet
