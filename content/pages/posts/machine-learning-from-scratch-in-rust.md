@@ -1,6 +1,6 @@
 ---
 title: 'Machine Learning From Scratch, in Rust'
-subtitle: 'https://www.kaggle.com/crawford/cat-dataset'
+subtitle: subtitle goes here
 date: '2021-07-16'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
